@@ -15,8 +15,7 @@
 - [License](#license)
 
 ## About
-
-Pamoja suites is a client relationship management tools that help business track sales , optimize leads and improve client retention.
+Pamoja Suites is a lightweight action-first operational Client Relationship Management (CRM) tool custom-built to help African small and medium-sized enterprises (SMEs) streamline, automate and organize their daily frontline business operations. Our platform brings messy, fragmented workflows together into one central, collaborative hub so your team can focus on what matters most—building relationships and growing your business.Unlike complex analytical platforms that focus only on backend data , Pamoja Suites is built for daily action. It specifically supports and improves the three core pillars of customer relations:
 
 ## Features
 
