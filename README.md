@@ -47,14 +47,12 @@ No VS Code? Just double-click index.html to open it in your browser.
 ```
 ## Project structure
 
-Plaintext
-
 Pamoja-Suites/
-├── index.html   # Page content
-├── about.html
-├── LICENSE
-└── README.md
 
+├── index.html   
+├── about.html  
+├── LICENSE      
+└── README.md    
 
 ## Credits
 Font-awesome
